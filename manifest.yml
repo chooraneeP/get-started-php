@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedPHP
+ - name: cloud computing mini project
    random-route: true
    memory: 128M
